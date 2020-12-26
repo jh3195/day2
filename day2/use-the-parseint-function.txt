@@ -1,0 +1,6 @@
+function convertToInteger(str) {
+    var integer = parseInt(str);
+    return integer;
+}
+
+convertToInteger("56");
